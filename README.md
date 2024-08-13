@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true&width=435&lines=Physics;Mathematics;Evolution;Software;Philosophy" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&center=true&width=435&lines=Physics;Mathematics;Evolution;Software;Philosophy" alt="Typing SVG" /></a>
 </p>
 
 📈 My GitHub Stats
